@@ -3,12 +3,13 @@
     background-color: aliceblue;
     text-align: center;
     padding-left: 100px;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font: sans-serif;
+
 }
 
 .button {
-    background-color: black;
-    color: white;
+    background-color: whitesmoke;
+    border-radius: 20;
 }
 /* body{
 } */
